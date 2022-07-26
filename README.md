@@ -18,3 +18,12 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LS2life&layout=compact" width="50%">
 </p>
+
+>	<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">  
+>	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+>	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">
+>	<img src="https://img.shields.io/badge/Intellij IDEA-EF2D5E?style=for-the-badge&logo=intellijidea&logoColor=black">
+>	<img src="https://img.shields.io/badge/vim-019773?style=for-the-badge&logo=vim&logoColor=black">
+>	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black">
+>	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=black">
+>

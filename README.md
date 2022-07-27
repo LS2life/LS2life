@@ -21,30 +21,49 @@
 
 <br>
 
-<p aligne="left">
+<div aligne="left">
 
-  - ### lang 
+- ### lang 
   
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-  <br>
-    
-  - ### VC  
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <br>
-  
-  - ### IDE  
   <p>
-  <img src="https://img.shields.io/badge/Intellij IDEA-EF2D5E?style=for-the-badge&logo=intellijidea&logoColor=black">
-  <img src="https://img.shields.io/badge/vim-019773?style=for-the-badge&logo=vim&logoColor=black">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-adge&logo=visualstudiocode&logoColor=black">
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=black">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=CSharp&logoColor=white"> &nbsp
+    
+<!-- <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=CSharp&logoColor=white"> -->
   </P>
-  <br>
-  
-  - ### OS  
-  
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">
-  <br>
+<br>
 
-</p>
+- ### Framework
+
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> &nbsp
+
+- ### VC  
+  
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> &nbsp
+<br>
+  
+- ### IDE
+  
+  <p>    
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black"> &nbsp
+  <img src="https://img.shields.io/badge/vim-019773?style=for-the-badge&logo=vim&logoColor=black"> &nbsp
+  <img src="https://img.shields.io/badge/Intellij IDEA-EF2D5E?style=for-the-badge&logo=intellijidea&logoColor=black"> &nbsp
+  <img src="https://img.shields.io/badge/WebStorm-1572B6?style=for-the-badge&logo=webstorm&logoColor=black"> &nbsp
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=black"> &nbsp
+  <img src="https://img.shields.io/badge/visual studio-EF2D5E?style=for-the-badge&logo=visual studio&logoColor=black"> &nbsp
+  </P>
+<br>
+  
+- ### OS  
+  
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"> &nbsp
+<br>
+
+</div>

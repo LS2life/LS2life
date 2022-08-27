@@ -47,7 +47,7 @@
   </p>
   <br>
 
-- ### VC  
+- ### VC (Version Control)  
   
   <p>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp
@@ -67,14 +67,34 @@
   </P>
 <br>
   
-- ### OS  
+- ### OS (Operating System)  
+
   <p>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"> &nbsp
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=black"> &nbsp
   </p>
 <br>
 
-    <img src="https://img.shields.io/badge/Apachetomcat-E95420?style=for-the-badge&logo=Apachetomcat&logoColor=black"> &nbsp
+- ### WAS (Web Application Server)
 
+  <p>
+  <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=black">  &nbsp
+  <img src="https://img.shields.io/badge/apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+  </p>
+<br>
+
+- ### Design Editor
+
+  <p>
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=black">  &nbsp
+
+  </P>
+<br>
+
+- ### etC (et Cetera)
+
+  <p>
+  <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=black">  &nbsp
+  </p>
 
 </div>

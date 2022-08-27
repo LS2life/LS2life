@@ -5,7 +5,7 @@
 
 
 <a>
-  <h2 align="center">격! 하게 환영합니다!</h2>
+  <h2 align="center"> 어잌후! 누추한 곳에 귀한분이!? 환영합니다!</h2>
   <h2 align="center"> 실험실이 난장판인건 실험을 잘 하고 있다는거겠죠??</h2>
 </a>
   <h6 align="center">아닐 수도 있다는건 넣어둬넣어둬. 어휴.. 뭘 그런걸 다..</h4>
@@ -23,7 +23,7 @@
 
 <div aligne="left">
 
-- ### lang 
+- ### Languages
   
   <p>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp
@@ -55,15 +55,15 @@
   </P>
   <br>
   
-- ### IDE
+- ### Code Eitor
   
   <p>    
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black"> &nbsp
   <img src="https://img.shields.io/badge/vim-019773?style=for-the-badge&logo=vim&logoColor=black"> &nbsp
-  <img src="https://img.shields.io/badge/Intellij IDEA-EF2D5E?style=for-the-badge&logo=intellijidea&logoColor=black"> &nbsp
-  <img src="https://img.shields.io/badge/WebStorm-1572B6?style=for-the-badge&logo=webstorm&logoColor=black"> &nbsp
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=black"> &nbsp
   <img src="https://img.shields.io/badge/visual studio-EF2D5E?style=for-the-badge&logo=visual studio&logoColor=black"> &nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black"> &nbsp
+  <img src="https://img.shields.io/badge/Intellij IDEA-EF2D5E?style=for-the-badge&logo=intellijidea&logoColor=black"> &nbsp
+  <img src="https://img.shields.io/badge/WebStorm-1572B6?style=for-the-badge&logo=webstorm&logoColor=black"> &nbsp
   </P>
 <br>
   
@@ -73,5 +73,8 @@
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=black"> &nbsp
   </p>
 <br>
+
+    <img src="https://img.shields.io/badge/Apachetomcat-E95420?style=for-the-badge&logo=Apachetomcat&logoColor=black"> &nbsp
+
 
 </div>
